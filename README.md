@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=42kharuya&label=Profile%20views&color=0e75b6&style=flat" alt="42kharuya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=42kharuya" alt="42kharuya" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js, Node.js, C, C++**
 
 - 📫 How to reach me **haruya.0411.k@gmail.com**
