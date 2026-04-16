@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=42kharuya&label=Profile" alt="42kharuya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=42kharuya" alt="42kharuya" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/h_kawasaki_" target="blank"><img src="https://img.shields.io/twitter/follow/h_kawasaki_?logo=twitter&style=for-the-badge" alt="h_kawasaki_" /></a> </p>
 
 - 🔭 I'm currently working on **Shimetra, MultiFace**
